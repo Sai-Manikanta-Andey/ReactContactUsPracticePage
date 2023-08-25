@@ -1,0 +1,16 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.title{
+    font-weight: 700;
+}
+
+.para{
+    font-size: 1rem;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+

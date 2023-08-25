@@ -1,0 +1,29 @@
+
+
+.primaryBtn{
+    padding: .8em .6em;
+    background-color: dodgerblue;
+    color: white;
+    min-width: 220px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.outlineBtn{
+    padding: .8em .6em;
+    background-color: dodgerblue;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width: 100%;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
